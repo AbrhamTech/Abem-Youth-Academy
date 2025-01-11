@@ -33,8 +33,16 @@
 💬 Feel free to reach out or collaborate!  
 
 
-"# Tsedal-Herbal-Cosmetics-Manufacturing" 
-Description: Created an educational website with a CMS that allows easy updates to curriculum details, events, and announcements. Admin Page enables staff to manage academic content efficiently. Skills Used: Educational CMS design, accessibility, responsive layouts. 
+"# Abem-Youth-Acadmey" 
+
+Project Name: Abem Youth Academy Website
+Category: Web
+Client: Mr. Yared Meles
+Project date: July 7th 2023
+Project URL: https://abemyouthacademy.com
+
+Description: Built an interactive website for Abem Youth Academy, an institution dedicated to nurturing young talent 
+Skills Used: Educational CMS design, accessibility, responsive layouts. 
 Technologies: HTML, CSS, JavaScript, Bootstrap, MySQL, PHP. Deliverables:
 
 Public-facing informative platform.
